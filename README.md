@@ -8,8 +8,9 @@ E-Commerce is a commercial website template that can be cloned and modified to o
 select the 'clone' button
 ```
 
+Copy the URL
 ```bash
-copy the URL 
+ 'https://github.com/zemchuks/e-commerce-website.git'
 ```
 
-You can start usint right away!
+You can start using right away!
