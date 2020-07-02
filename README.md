@@ -17,4 +17,6 @@ Copy the URL
  'https://github.com/zemchuks/e-commerce-website.git'
 ```
 
+Click [Here](https://e-commerce-web.netlify.app/) to get a preview of the site
+
 You can start using right away!
